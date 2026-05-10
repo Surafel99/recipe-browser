@@ -1,14 +1,14 @@
 # Flutter Recipe Browser
 
 
-|---|---|
-| **Name** | Surafel Alebachew |
-| **Student ID** | *ATE/3176/15* |
-| **Track** | Track C — Recipe Browser App |
-| **API** | [TheMealDB](https://www.themealdb.com/api/json/v1/1) — Free, no API key needed |
-| **Instructor** | Abel Tadesse |
 
----
+Name Surafel Alebachew 
+Student ID ATE/3176/15* 
+Track C — Recipe Browser App 
+API [TheMealDB](https://www.themealdb.com/api/json/v1/1) — Free, no API key needed 
+Instructor  Abel Tadesse
+
+
 
 ##  App Description
 
