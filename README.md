@@ -120,4 +120,4 @@ url_launcher: ^6.3.0  # Open YouTube links in external browser
 
 
 
-*Submitted by Surafel Alebachew Asefa — Software Engineering, 4th Year · Addis Ababa Institute of Technology (AAiT)*
+Surafel Alebachew  — Software Engineering, 4th Year · Addis Ababa Institute of Technology (AAiT)
