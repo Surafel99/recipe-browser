@@ -3,10 +3,10 @@
 
 
 Name Surafel Alebachew 
-Student ID ATE/3176/15* 
+Student ID ATE/3176/15
 Track C — Recipe Browser App 
 API [TheMealDB](https://www.themealdb.com/api/json/v1/1) — Free, no API key needed 
-Instructor  Abel Tadesse
+Instructor |Abel Tadesse 
 
 
 
@@ -120,4 +120,4 @@ url_launcher: ^6.3.0  # Open YouTube links in external browser
 
 
 
-Surafel Alebachew  — Software Engineering, 4th Year · Addis Ababa Institute of Technology (AAiT)
+*Submitted by Surafel Alebachew Asefa — Software Engineering, 4th Year · Addis Ababa Institute of Technology (AAiT)*
